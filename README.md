@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-### What i'm working on 
-[Pacstall](github.com/Henryws/pacstall)
-
+#### What I'm working on
+##### [Pacstall](https://github.com/Henryws/pacstall)
 <!--
 **Henryws/Henryws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+/
