@@ -1,7 +1,7 @@
 ### Hi there 👋
-
 #### What I'm working on
 #### [Pacstall](https://github.com/Henryws/pacstall)
+- 🌱 I'm currently learning to write better bash scripts
 <!--
 **Henryws/Henryws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
