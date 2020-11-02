@@ -24,4 +24,5 @@
 | [Neovim](https://neovim.io/) | hyperextensible Vim-based text editor |
 | [Firefox](https://firefox.com) |  Do what you do online. Firefox Browser isn’t watching. |
 | [Dracula PRO](https://draculatheme.com/pro) |  Dracula PRO is a color scheme and UI theme tailored for programming |
+| [DT's awesome config](https://gitlab.com/dwt1/dotfiles) | DistroTube's awesomewm config |
 </div>
