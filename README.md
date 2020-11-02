@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=sh&logoColor=white&color=AC4142)](https://gnu.org/software/bash)
 [![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=vim&logoColor=white&color=AC4142)](https://neovim.io/)
 
-
+---
 ### **Projects**
 | Name | Category | Description |
 |------|----------|-------------|
