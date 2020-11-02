@@ -3,9 +3,9 @@
 ## **Henry (@Henryws)**
 
 
-[![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=linux&logoColor=white&color=00BFFF)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnu&logoColor=white&color=AC4142)](https://gnu.org/software/bash)
-[![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=vim&logoColor=white&color=00FF00)](https://neovim.io/)
+[![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat-square&logo=linux&logoColor=white&color=00BFFF)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/Code-Bash-informational?style=flat-square&logo=gnu&logoColor=white&color=AC4142)](https://gnu.org/software/bash)
+[![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=vim&logoColor=white&color=00FF00)](https://neovim.io/)
 
 ---
 ### **Projects**
