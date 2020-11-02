@@ -19,5 +19,9 @@
 ### **Things I use**
 | Name | Description |
 |------|-------------|
-| Alacritty | Alacritty is the fastest terminal emulator in existence |
+| [Alacritty](https://github.com/alacritty/alacritty) | Alacritty is the fastest terminal emulator in existence |
+| [AwesomeWM](https://awesomewm.org/) | awesome is a highly configurable, next generation framework window manager for X |
+| [Neovim](https://neovim.io/) | hyperextensible Vim-based text editor |
+| [Firefox](https://firefox.com) |  Do what you do online. Firefox Browser isn’t watching. |
+| [Dracula PRO](https://draculatheme.com/pro) |  Dracula PRO is a color scheme and UI theme tailored for programming |
 </div>
