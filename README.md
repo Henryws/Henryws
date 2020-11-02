@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tonsky/FiraCode@4/distr/fira_code.css">
 <div align="center">
 
 ## **Henry ([@Henryws](https://github.com/Henryws))**
