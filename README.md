@@ -1,6 +1,6 @@
 <div align="center">
 
-## **Henry (@Henryws)**
+## **Henry ([@Henryws](https://github.com/Henryws))**
 
 
 [![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat-square&logo=linux&logoColor=white&color=00BFFF)](https://www.archlinux.org/)
