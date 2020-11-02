@@ -1,18 +1,11 @@
-### Hi there 👋
-#### What I'm working on
-#### [Pacstall](https://github.com/Henryws/pacstall)
-- 🌱 I'm currently learning to write better bash scripts
-<!--
-**Henryws/Henryws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+## **Henry**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=linux&logoColor=white&color=AC4142)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=bash&logoColor=white&color=AC4142)](https://gnu.org/software/bash)
+[![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=vim&logoColor=white&color=AC4142)](https://neovim.io/)
+
+
+</div>
