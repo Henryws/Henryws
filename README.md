@@ -15,4 +15,9 @@
 | [Themer](https://github.com/Henryws/themer) | [![Themes](https://img.shields.io/badge/%F0%9F%A7%AC-Theming%20Tool-brightgreen?style=flat-square)](https://github.com/topics/themes) | A simple tool to download and install themes/icons/cursors |
 | [Neon Blood](https://github.com/Henryws/Neon-Blood) | [![Neon-Blood](https://img.shields.io/badge/%F0%9F%A9%B8-Neon--Blood-322b3c?style=flat-square)](https://github.com/topics/themes) | A colorscheme for everything | 
 
+---
+### **Things I use**
+| Name | Description |
+|------|-------------|
+| Alacritty | Alacritty is the fastest terminal emulator in existence |
 </div>
