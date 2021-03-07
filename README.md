@@ -31,4 +31,6 @@
 | [ohmyZSH](https://ohmyz.sh/) | Oh My Zsh is an open source, community-driven framework for managing your Zsh configuration |
 | [Starship](https://starship.rs/) | The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
 | [sddm+sugar candy](https://www.pling.com/p/1312658/) | So extremely sweet your pancreas will have difficulties digesting its awesomeness |
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henryws&show_icons=true&theme=dracula)
 </div>
