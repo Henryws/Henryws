@@ -7,6 +7,8 @@
 [![](https://img.shields.io/badge/Coding%20Language-Bash-informational?style=flat-square&logo=gnu&logoColor=white&color=AC4142)](https://gnu.org/software/bash)
 [![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=vim&logoColor=white&color=00FF00)](https://neovim.io/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henryws&show_icons=true&theme=dracula)
+
 ---
 ### **Projects**
 | Name | Category | Description |
@@ -32,5 +34,4 @@
 | [Starship](https://starship.rs/) | The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
 | [sddm+sugar candy](https://www.pling.com/p/1312658/) | So extremely sweet your pancreas will have difficulties digesting its awesomeness |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henryws&show_icons=true&theme=dracula)
 </div>
