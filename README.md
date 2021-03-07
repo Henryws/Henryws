@@ -34,4 +34,6 @@
 | [Starship](https://starship.rs/) | The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
 | [sddm+sugar candy](https://www.pling.com/p/1312658/) | So extremely sweet your pancreas will have difficulties digesting its awesomeness |
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henryws&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
