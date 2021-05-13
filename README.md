@@ -30,7 +30,6 @@
 | [DT's awesome config](https://gitlab.com/dwt1/dotfiles) | DistroTube's awesomewm config |
 | [Neomutt](https://neomutt.org/) | NeoMutt is a command line mail reader (or MUA). It’s a fork of Mutt with added features |
 | [ohmyZSH](https://ohmyz.sh/) | Oh My Zsh is an open source, community-driven framework for managing your Zsh configuration |
-| [Starship](https://starship.rs/) | The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
 | [sddm+sugar candy](https://www.pling.com/p/1312658/) | So extremely sweet your pancreas will have difficulties digesting its awesomeness |
 
 </div>
